@@ -7,6 +7,7 @@ A Paper List of 3D Object Detection.
 ## Arxiv 2022
 
 1.Sparse4D: Multi-view 3D Object Detection with Sparse Spatial-Temporal Fusion.(Horizon)
+
 2.BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection.
 
 
