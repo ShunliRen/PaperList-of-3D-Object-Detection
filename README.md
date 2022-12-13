@@ -16,3 +16,4 @@ A Paper List of 3D Object Detection.
 1. Fully Sparse 3D Object Detection.
 2. DeepInteraction: 3D Object Detection via Modality Interaction.
 3. DTG-SSOD: Dense Teacher Guidance for Semi-Supervised Object Detection.
+4. MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds
